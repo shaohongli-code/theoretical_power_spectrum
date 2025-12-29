@@ -18,4 +18,6 @@
 你可以通过 pip 直接安装：
 
 ```bash
-pip install power-spectrum-tool
+git clone git@github.com:shaohongli-code/theoretical_power_spectrum.git
+pip install ./
+
